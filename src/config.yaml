@@ -1,0 +1,15 @@
+title: Drink or Soup Classifier
+description: Classify images using deep learning
+about:
+
+code: https://github.com/Stan-Lin/drink-soup-classifier
+
+sampleImages:
+  - name: 牛肉湯 
+    url: https://tokyo-kitchen.icook.network/uploads/step/cover/972738/large_a0f3d7210e3bd7d6.jpg
+  - name: 抹茶拿鐵
+    url: https://1.bp.blogspot.com/-Q-JSwzEXFgw/WDPz9E8v30I/AAAAAAAAU1o/iR8sCPdER6ogaoUd0JhiVP1DFHXZjX45ACLcB/s1600/IMG_6756.JPG
+  - name: Hot Pot 
+    url: https://img.angelala.tw/20180619161913_67.jpg
+  - name: Bubble Tea 
+    url: https://cdn.japantimes.2xx.jp/wp-content/uploads/2019/05/p14-stmichel-bubbletea-a-20190512-870x581.jpg
